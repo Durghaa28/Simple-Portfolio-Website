@@ -36,12 +36,11 @@ Open the index.html file in any modern browser.
 
 To visit the contact page directly, open form.html.
 
-Live Demo
+#Live Demo
 View the live deployed site here:
-Portfolio Website
+https://durghaa28.github.io/Simple-Portfolio-Website/form.html
 
-Author
-
-Durghaa Devi
-LinkedIn
-GitHub
+#Developed By
+Durghaa Devi S
+LinkedIn: https://www.linkedin.com/in/durghaadevi
+GitHub: https://github.com/Durghaa28/
