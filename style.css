@@ -1,0 +1,202 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 30px;
+    background-color: #EDF3F9;
+}
+h1{
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: 1px;
+}
+h2,h3{
+    font-family: 'Space Grotesk', sans-serif;
+}
+.section-one{
+    background-image: url("1.jpg");
+    border-radius: 20px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    height: 270px;
+}
+.section-one__name{
+    font-size: 60px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.section-one__role{
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.section-one__contact{
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: large;
+}
+.section-one__contact:hover{
+    background-color: gray;
+    color: black;
+}
+.section-two,.section-three,.section-four,.section-five{
+    margin-top: 30px;
+}
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc{
+    margin-top: 10px;
+}
+.section-two__title{
+    font-size: 40px;
+    text-align: center;
+    
+}
+.section-two__desc{
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.section-seven{
+    background-color: black;
+    color: white;
+    padding: 20PX;
+    margin-top: 30px;
+    border-radius: 20px;
+    height: 100px;
+}
+.section-seven__title a{
+    color: brown;
+    text-decoration: none;
+}
+.section-seven__title{
+    padding-top: 20px;
+    font-size: 25px;
+    
+}
+.section-seven__desc{
+    padding-top: 20px;
+}
+
+.section-three__desc li,.section-four__desc li,.section-five__desc li{
+    list-style: none;
+}
+.section-three{
+    background-color: #0D1B2A;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    vertical-align: top;
+    margin: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.section-three:hover{
+    background-color: #1E3A5F;
+
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transform: scale(1.02);
+}
+span{
+    color: brown;
+}
+.section-four{
+    background-color: #0D1B2A;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    vertical-align: top;
+    margin: 10px;
+    margin-top: 50px;
+}
+.section-four:hover{
+    background-color: #1E3A5F;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transform: scale(1.02);
+}
+.section-five{
+    background-color: #0D1B2A;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    vertical-align: top;
+    margin: 10px;
+    margin-top: 50px;
+}
+.section-five:hover{
+    background-color: #1E3A5F;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transform: scale(1.02);
+  
+
+}
+.section-three__title,.section-four__title,.section-five__title{
+    font-size: 25px;
+}
+.section-three__desc,.section-four__desc,.section-five__desc{
+    font-size: 15px;
+}
+.section-six{
+    display: block;
+    padding: 20px;
+    height: 200px;
+    border-radius: 10px;
+
+}
+.section-six__title{
+    text-align: center;
+    font-size: 40px;
+}
+.section-six__desc{
+    padding-top: 20px;
+    padding-left: 300px;
+    font-size: small;
+}
+.one{
+    font-size: 16px;
+}
+.contact-form{
+    margin-top: 20px;
+}
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+    margin-top: 10px;
+}
+.contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contact-form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.contact-form__submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: brown;
+    border: none;
+    color: black;
+}
